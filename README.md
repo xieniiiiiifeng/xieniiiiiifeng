@@ -43,6 +43,17 @@
 
 <br/>
 
+### 🐍 贡献贪吃蛇 (Contribution Snake)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xieniiiiiifeng/xieniiiiiifeng/main/bonsai.svg" alt="My Bonsai" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xieniiiiiifeng/xieniiiiiifeng/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xieniiiiiifeng/xieniiiiiifeng/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/xieniiiiiifeng/xieniiiiiifeng/output/github-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xieniiiiiifeng&label=Profile%20views&color=3B82F6&style=flat" alt="Profile views" />
 </div>
