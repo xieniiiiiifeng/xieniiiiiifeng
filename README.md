@@ -43,15 +43,6 @@
 
 <br/>
 
-### 📊 GitHub 统计 (GitHub Stats)
-
-<div align="center">
-  <!-- 采用了定制的深蓝底色 (#0a192f) 和亮蓝色标题 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xieniiiiiifeng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xieniiiiiifeng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=3B82F6&text_color=c9d1d9&langs_count=6" height="180em" alt="Top Languages" />
-</div>
-
-<br/>
 
 ### 🐍 贡献贪吃蛇 (Contribution Snake)
 
