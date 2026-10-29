@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/xieniiiiiifeng">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Freshman+at+Fuzhou+University;Learning+C+and+Python;Born+in+2006." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Sophomore+at+Fuzhou+University;Learning+C+and+Python;Born+in+2006." alt="Typing SVG" />
   </a>
 </p>
 
