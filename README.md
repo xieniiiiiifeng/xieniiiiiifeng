@@ -44,8 +44,6 @@
 <br/>
 
 
-### 🐍 贡献贪吃蛇 (Contribution Snake)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xieniiiiiifeng/xieniiiiiifeng/output/github-snake-dark.svg">
