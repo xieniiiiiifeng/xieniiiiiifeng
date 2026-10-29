@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="mailto:18050054803@163.com"><img src="https://img.shields.io/badge/Email-18050054803%40163.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://gitee.com/xieniiiii/"><img src="https://img.shields.io/badge/Gitee-xieniiiii-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"></a>
+  <a href="https://gitee.com/xieniiiiifeng/"><img src="https://img.shields.io/badge/Gitee-xieniiiii-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"></a>
 </p>
 
 </div>
